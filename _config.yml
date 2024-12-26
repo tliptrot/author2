@@ -12,9 +12,9 @@ title                    : "Tim Liptrot"
 title_separator          : "-"
 name                     : &name "Tim Liptropt"
 description              : &description "PhD Student at Georgetown University specialising in comparative political economy and autocracies."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://tliptrot.github.io/author2/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/tliptrot/author2"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Washington, DC"
+  employer         : "Georgetown University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tl790@georgetown.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
