@@ -21,7 +21,7 @@ repository               : "https://github.com/tliptrot/author2"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tim_headshot.png"
+  avatar           : "tim_headshot.jpg"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Comparative Politics PhD Candidate"
