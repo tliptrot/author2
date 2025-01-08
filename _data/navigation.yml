@@ -11,17 +11,17 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/tliptrot/author2/blob/079d493e0e97313964d65ffb2dae435c1a483c41/files/academic_cv.pdf?raw=true
     
 #  - title: "Guide"
 #    url: /markdown/
